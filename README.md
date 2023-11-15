@@ -36,3 +36,11 @@ Ensure you have Visual Studio (or any compatible IDE) installed to open and run 
 - Building a user interface for data input and output.
 - Handling user input securely.
 - Managing encryption keys dynamically.
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
