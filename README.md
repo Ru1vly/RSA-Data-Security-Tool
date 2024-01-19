@@ -19,7 +19,7 @@ This Windows Form App allows users to encrypt and decrypt data using a specified
 
 ## Installation
 
-Ensure you have Visual Studio (or any compatible IDE) installed to open and run the project. No additional dependencies are required.
+32/64 bit processor and 32/64 bit OS can run executable files. No additional dependencies are required.
 
 ## To Do
 
