@@ -12,12 +12,10 @@ This Windows Form App allows users to encrypt and decrypt data using a specified
 ## Usage
 
 1. Clone the repository.
-2. Open the project in Visual Studio or your preferred IDE.
-3. Build and run the application.
-4. Enter text in the input textbox.
-5. Click the "Encrypt" button to encrypt the text.
-6. Click the "Decrypt" button to decrypt the encrypted text.
-7. Change the key in the dedicated textbox for different encryption/decryption keys.
+2. Enter text in the input textbox.
+3. Click the "Encrypt" button to encrypt the text.
+4. Click the "Decrypt" button to decrypt the encrypted text.
+5. Change the key in the dedicated textbox for different encryption/decryption keys.
 
 ## Installation
 
