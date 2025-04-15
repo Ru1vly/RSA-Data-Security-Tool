@@ -11,7 +11,7 @@ This Windows Form App allows users to encrypt and decrypt data using a specified
 
 ## Usage
 
-1. Download the executable from releases and öpen.
+1. Download the executable from releases and open.
 2. Enter text in the input textbox.
 3. Click the "Encrypt" button to encrypt the text.
 4. Click the "Decrypt" button to decrypt the encrypted text.
